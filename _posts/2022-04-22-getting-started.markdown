@@ -21,9 +21,20 @@ BG's album release and tour were part of a small wave of Russian rock activity i
 
 During this period, BG also appeared on *Late Night with David Letterman*. In his brief interview with Letterman, he's charming and a bit glib, as befits the format; in the Katz interview, he covers some of the same topics in a more thoughtful and expansive manner.
 
+## More to explore
 
+This interview has left me with so many questions and topics for further research! I want to know:
+
+- What type of people were in the audience for BG's US concerts in 1989? It couldn't have been the nostalgic Russian-speaking crowd he'd get playing in North America now.[^6] 
+- What was the critical consensus on *Radio Silence*? Same questions re: the Kino and Zvuki Mu albums released in the US around this time.
+- What cities/venues did BG hit on the rest of his tour? Who opened for him in each of these places?
+- What other materials related to Russian rock might unexpectedly exist in the archives/special collections of institutions around Boston?
+- The big one: How did the way Soviet rock was written about in the Anglo-American press in the 1980s compare to how 2010s-current Russian music has been covered? Especially given the pressures artists have been facing in the last few years over criticism of Putin and (more recently) the war in Ukraine? Does Molchat Doma's (Belarusian, but performing in Russian) performance at Coachella and US tour following that mean anything in this context, or is that a one-off TikTok-powered phenomenon?
+
+---
 [^1]: In Russian, Борис Гребенщиков. This often gets romanized as Boris Grebenshikov in the English-language press, although it probably shouldn't (ш ≠ щ). He's also known as БГ in Russia, so I'm going to use BG going forward to avoid dealing with that and save myself some keystrokes. 
 [^2]: Аквариум in Russian. I am generally pro-transliteration over translation of Russian band names, but for consistency with how they're referred to in this interview and in English-language news articles, I will go with Aquarium rather than Akvarium.
 [^4]: More context about the official vs unofficial distinction...controversy at the 1980 Spring Rhythms Festival in Tbilisi, 1982 concert in Arkhangelsk "where the DK administrator refused to allow BG to go on stage barefoot"; BG did anyway and so Aquarium was banned from performing publicly and played apartment concerts for the next six months (Steinholt, p. 41)
 [^3]: Cooperman, Alan.  "Soviet rock'n'roll hits America." *Wilmington Morning Star*, 21 May 1989. https://news.google.com/newspapers?id=ug8WAAAAIBAJ&sjid=WBQEAAAAIBAJ&pg=7054,2046404
 [^5]: For more information: Yngwar B. Steinholt provides a more comprehensive overview on the band's history in pp. 60-66 of [Rock in the Reservation: Songs from Leningrad Rock Club 1981-86](https://hdl.handle.net/10037/3704)
+[^6]: I'm guessing, based on anecdotal evidence. I saw Mashina Vremeni in DC in 2018, Mumiy Troll in Montreal in 2019, Nogu Svelo! in Cambridge in 2021, and Nochnye Snaipery in Cambridge in 2022--all with nearly 100% Russian-speaking audiences. 
