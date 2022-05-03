@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BG at Paradise Rock Club"
-date: 2022-05-03 13:27:00 -0400
+date: 2022-05-03 16:37:00 -0400
 categories:
 ---
 
@@ -45,7 +45,7 @@ The main event listings in Section 3 includes a picture of BG as the featured im
 
 <div style="clear: both"></div>
 
-And we can look at all of the concerts happening on 5 August 1989: what would you have been missing, if you went to see BG at Paradise? (White Zombie and Badfinger are the only names I recognize here)
+And we can look at all of the concerts happening on 5 August 1989: what would you have been missing, if you went to see BG at Paradise? (White Zombie and Badfinger are the only names I recognize here.)
 
 <figure style="float:left; display:table" width=300>
 <img src="/bg-in-boston/assets/boston_phoenix_1989-08-04/s3_p25_saturday_listings.png" alt="Saturday concert listings, part 1, from section 3, page 25 of The Boston Phoenix (Volume 18, Issue 31)" style="float:left" width=300>
@@ -61,11 +61,11 @@ And we can look at all of the concerts happening on 5 August 1989: what would yo
 
 ---
 
-So: how did it go?
+So: how did the show go?
 
 Well, if you happen to have access to historical issues of the _Boston Globe_, there was a review published in the 7 August 1989 issue.[^3] The citation is:
 
-- Morse, Steve. 1989. "Grebenshikov Lost in the Din." _Boston Globe_, August 7, 1989.
+Morse, Steve. 1989. "Grebenshikov Lost in the Din." _Boston Globe_, August 7, 1989.
 
 The review is not especially positive! Morse apparently saw BG perform with Aquarium in Montreal in 1988 and makes an unfavorable comparison between the two shows, stating that the Montreal show was "a long way from the more limited commercial sound that Grebenshikov brought to the Paradise." Some more choice quotes from this interview:
 
@@ -75,11 +75,11 @@ The review is not especially positive! Morse apparently saw BG perform with Aqua
 
 > Perhaps Grebenshikov was wrong in leaving [Aquarium] home. It would be a bit like Bruce Springsteen making his Russian debut without the E Street Band. In effect, we've been denied the full range of Grebenshikov's talent, which is a very risky move on his part.
 
-I'm curious to see if I can find any more reviews, but I'm not really sure where else to look. Are there other local papers that would have published concert reviews? Would someone who attended the concert have written about it and posted their recollections online years later?
+I'm curious to see if I can find any more reviews, but I'm not really sure where else to look. Are there other local papers that would have published concert reviews? Would someone who attended the concert have written about it and posted their recollections online years later? Do I need to go out and try to collect oral histories?
 
 ---
 
 
 [^1]: Super excited to stumble on this, as this article predates Ryback's excellent monograph on the topic (incidentally, also available to borrow from [Internet Archive](https://archive.org/details/rockaroundblochi0000ryba)) by a few years and has this lovely note at the end: "For information on where to buy Soviet-bloc rock recordings send a self-addressed stamped envelope to: Timothy W. Ryback, German Department, Harvard University, Cambridge 02138"
 [^2]: Went ahead and created a [MusicBrainz artist entry](https://musicbrainz.org/artist/c3ed6b69-0645-436f-9f66-96f2aabdcae8) for them; I'm assuming that [this Facebook artist page](https://www.facebook.com/hidinginpublicband) with the description "Late 80's very early 90's Boston band" is them and from some initial searching in the _Phoenix_, I can see yet another interesting little research path to follow, since you can sort of track their career through the classified ads and event listings.
-[^3]: One could also search "boris grebenshikov boston 1989" and find a copy of the review of that concert from the _Boston Globe_ republished on an Aquarium fan site. But I couldn't possibly advocate the use of such a resource that violates copyright.
+[^3]: One could also search "boris grebenshikov boston 1989" and find a copy of the review of that concert from the _Boston Globe_ republished on an Aquarium fan site. But I couldn't possibly advocate the use of a copyright-violating resource.
