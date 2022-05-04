@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "BG at Paradise Rock Club"
-date: 2022-05-03 16:37:00 -0400
 categories:
 ---
 

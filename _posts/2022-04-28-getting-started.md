@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Getting Started"
-date: 2022-04-28 10:05:00 -0400
 categories:
 ---
 
