@@ -16,7 +16,7 @@ Anyway, the OCR is not perfect, but you can search over the text contents of the
 We can get deeper into how BG is covered in the _Phoenix_ over time in some other post, maybe; most of the issues are from 1989, but I think the search is mostly picking up on ads and chart placements for _Radio Silence_ and not more extensive coverage. The issue of interest here is from [4 August 1989 (Vol. 18, Iss. 31)](https://archive.org/details/sim_boston-phoenix_august-04-10-1989_18_31/page/10/mode/2up?q=grebenshikov), which has the concert listings that include BG's show at Paradise Rock Club.
 
 <figure style="float:left; display:table" width=300>
-<img src="/bg-in-boston/assets/boston_phoenix_1989-08-04/s1_p11_paradise_shows.png" alt="Paradise listings from section 1, page 11 of The Boston Phoenix (Volume 18, Issue 31)">
+<img src="{{ site.baseurl }}/assets/boston_phoenix_1989-08-04/s1_p11_paradise_shows.png" alt="Paradise listings from section 1, page 11 of The Boston Phoenix (Volume 18, Issue 31)">
 <figcaption style="caption-side:bottom; display:table-caption">Paradise Rock Club event listings from section 1, page 11 of the Phoenix (Vol. 18, Iss. 31)</figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ This is also the only mention I've found so far that there was a support act, Hi
 In Section 3, there's a big ad for _Radio Silence_ and...well, the copy here is not subtle.
 
 <figure style="float:none; display:table" width=400>
-<img src="/bg-in-boston/assets/boston_phoenix_1989-08-04/s3_p19_radio_silence.png" alt="Radio Silence ad from section 3, page 19 of The Boston Phoenix (Volume 18, Issue 31)">
+<img src="{{ site.baseurl }}/assets/boston_phoenix_1989-08-04/s3_p19_radio_silence.png" alt="Radio Silence ad from section 3, page 19 of The Boston Phoenix (Volume 18, Issue 31)">
 <figcaption style="caption-side:bottom; display:table-caption">Radio Silence ad from section 3, page 19 of the Phoenix (Vol. 18, Iss. 31)</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ In Section 3, there's a big ad for _Radio Silence_ and...well, the copy here is 
 The main event listings in Section 3 includes a picture of BG as the featured image.
 
 <figure style="float:none; display:table" width=400>
-<img src="/bg-in-boston/assets/boston_phoenix_1989-08-04/s3_p25_bg_photo.png" alt="Photo of BG from section 3, page 25 of The Boston Phoenix (Volume 18, Issue 31)">
+<img src="{{ site.baseurl }}/assets/boston_phoenix_1989-08-04/s3_p25_bg_photo.png" alt="Photo of BG from section 3, page 25 of The Boston Phoenix (Volume 18, Issue 31)">
 <figcaption style="caption-side:bottom; display:table-caption">Photo of BG from section 3, page 25 of the Phoenix (Vol. 18, Iss. 31)</figcaption>
 </figure>
 
@@ -47,12 +47,12 @@ The main event listings in Section 3 includes a picture of BG as the featured im
 And we can look at all of the concerts happening on 5 August 1989: what would you have been missing, if you went to see BG at Paradise? (White Zombie and Badfinger are the only names I recognize here.)
 
 <figure style="float:left; display:table" width=300>
-<img src="/bg-in-boston/assets/boston_phoenix_1989-08-04/s3_p25_saturday_listings.png" alt="Saturday concert listings, part 1, from section 3, page 25 of The Boston Phoenix (Volume 18, Issue 31)" style="float:left" width=300>
+<img src="{{ site.baseurl }}/assets/boston_phoenix_1989-08-04/s3_p25_saturday_listings.png" alt="Saturday concert listings, part 1, from section 3, page 25 of The Boston Phoenix (Volume 18, Issue 31)" style="float:left" width=300>
 <figcaption style="caption-side:bottom; display:table-caption">Saturday concert listings, part 1, from section 3, page 25 of the Phoenix (Vol. 18, Iss. 31)</figcaption>
 </figure>
 
 <figure style="float:none; display:table" width=300>
-<img src="/bg-in-boston/assets/boston_phoenix_1989-08-04/s3_p26_saturday_listings.png" alt="Saturday concert listings, part 2, from section 3, page 26 of The Boston Phoenix (Volume 18, Issue 31)" style="float:left" width=300>
+<img src="{{ site.baseurl }}/assets/boston_phoenix_1989-08-04/s3_p26_saturday_listings.png" alt="Saturday concert listings, part 2, from section 3, page 26 of The Boston Phoenix (Volume 18, Issue 31)" style="float:left" width=300>
 <figcaption style="caption-side:bottom; display:table-caption">Saturday concert listings, part 2, from section 3, page 26 of the Phoenix (Vol. 18, Iss. 31)</figcaption>
 </figure>
 

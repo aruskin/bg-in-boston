@@ -6,9 +6,9 @@ layout: default
 title: Home
 ---
 ## What is this?
-Hi, this is a little research blog inspired by [Larry Katz's interview with Boris Grebenshchikov in the summer of 1989](http://hdl.handle.net/2047/D20428339). For more context, please check out the [Getting Started]({% post_url 2022-04-28-getting-started %}) post.
+Hi, this is a little research blog inspired by [Larry Katz's interview with Boris Grebenshchikov in the summer of 1989](http://hdl.handle.net/2047/D20428339). For more context, please check out the [Getting Started]({{ site.baseurl }}{% post_url 2022-04-28-getting-started %}) post.
 
 ## Posts
 {% for post in site.posts %}
-- {{ post.date | date: "%Y-%m-%d" }}: [{{ post.title }}]({{ post.url | absolute_url }})
+- {{ post.date | date: "%Y-%m-%d" }}: [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
 {% endfor %}
