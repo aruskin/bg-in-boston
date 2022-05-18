@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Boston Music Scene Tangent: Adding Venues from the Phoenix to Wikidata"
+categories:
+---
+
+So, one of my dweebiest hobbies is adding music venues to Musicbrainz and Wikidata, and in looking through the concert listings from the [4 August 1989 issue of the _Boston Phoenix_](https://archive.org/details/sim_boston-phoenix_august-04-10-1989_18_31/page/n87), it struck me what a nice, structured source of venue data newspaper listings provide.  Maybe not structured enough to extract it automatically (lots of OCR issues to clean up, for one thing), but enough to make copying over the names, street addresses, and cities of venues into a spreadsheet a pleasant and relaxing data entry task, if you're into that sort of thing.
+
+Once you have that, you can move into OpenRefine and start reconciling against Wikidata. A few of these venues already had associated Wikidata (thanks largely, I would assume, to the [Boston Rock City edit-a-thon](https://www.wikidata.org/wiki/Wikidata:WikiProject_Linked_Data_for_Production/Arthur_Freedman_Collection_Project) last year).
+
+Based on the music listings from this single issue of the Boston Phoenix, I ended up [adding 42 venues to Wikidata](https://editgroups.toolforge.org/b/OR/7097365728c/). I want to go back and do some further research on each of these, in particular to get their dates of opening and closure, if possible. We do know that each of these would have been open in August 1989, at least, and I'm not sure what the best way to capture that is. I only semi-recently learned the term floruit, which has an [associated Wikidata property](https://www.wikidata.org/wiki/Property:P1317). I wish I could remember more of the context now, but I think there was a conference presentation on using floruit not in the literal "flourishing" sense but as a better-than-nothing estimate of when a person was alive when birth and death dates are unknown. Does it make sense to use floruit for a building/business? It does to me (it would also help with some unrelated public art modeling--i.e., if you know from a historic photo or whatever that a mural was up during a given period, but don't have documentary evidence for its installation or removal date). 
